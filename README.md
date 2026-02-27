@@ -468,7 +468,7 @@ ISC License
 
 ## 👨‍💻 Author
 
-Created by the development team
+Created by Chandan Kumar
 
 ---
 
