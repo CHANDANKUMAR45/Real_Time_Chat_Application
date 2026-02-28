@@ -490,3 +490,9 @@ Created by Chandan Kumar
 ## 📞 Support
 
 For issues or questions, please contact the development team or create an issue in the repository.
+
+
+
+- **Email**: chandankumarnwd9060@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/chandan-kumar-12bb24284/
+- **GitHub**: https://github.com/CHANDANKUMAR45
