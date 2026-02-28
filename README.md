@@ -1,5 +1,9 @@
 # Real-Time Chat Application
 
+## 🌐 Live Demo
+
+🚀 **Live Application:** https://real-time-chat-application-frontend-92hv.onrender.com
+
 ## Project Summary
 
 The Real-Time Chat Application is a comprehensive full-stack web solution that enables users to communicate with each other in real-time. Built with modern technologies including React, Node.js, Express, MongoDB, and Socket.io, the application provides a seamless messaging experience with instant message delivery, online status tracking, and image sharing capabilities.
